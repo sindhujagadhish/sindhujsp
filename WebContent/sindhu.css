@@ -1,0 +1,23 @@
+#header
+{
+	background-color:lightgrey;
+	height:100px;
+	width:100%;
+}
+.logocontainer
+{
+	padding:10px;
+	float:left;
+}
+.nav
+{
+	padding-top:60px;
+}
+.footer
+{
+	background-color:#9C9EC3;
+	height:50px;
+	width:100%;
+	text-align:center;
+	padding-top:10px;
+}
